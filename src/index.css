@@ -1,4 +1,5 @@
 /*COMMON SETTINGS*/
+
 body{
     font-family: 'Nunito Sans';
     font-size: 16px;
@@ -6,10 +7,11 @@ body{
 .navbar-brand, h1{
     font-weight: 900;
 }
+
 h1{
     margin-bottom: 5%;
 }
-.setTheme{
+.setThemeBTN{
     font-weight: 700;
 }
 
@@ -59,7 +61,38 @@ nav{
 }
 
 /*DARK MODE*/
-.dark-ph::placeholder{
+.dark-input::placeholder{
         color: white;
         font-weight: 600;
+}
+
+.dark-navbar, .dark-input{
+    color: white;
+    background-color: hsl(209, 23%, 22%);
+}
+.light-navbar, .light-input{
+    background-color: white;
+}
+
+.dark-card{
+    background-color: hsl(209, 23%, 22%);
+    color: white;
+}
+.light-card{
+    background-color: white;
+}
+
+.dark-body, html{
+    background-color: hsl(207, 26%, 17%);
+}
+.light-body, html{
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(209, 23%, 22%);
+}
+
+.light-text{
+    color: white;
+}
+.dark-text{
+    color: hsl(209, 23%, 22%);
 }
