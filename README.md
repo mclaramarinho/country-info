@@ -1,5 +1,5 @@
 # Browser Country Searcher
-An app to get country informations from the restcountries.com.
+An app to get country informations.
 
 **Live URL:** [https://get-countries-info.netlify.app/]
 
