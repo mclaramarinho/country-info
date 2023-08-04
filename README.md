@@ -26,12 +26,4 @@ An app to get country informations from the restcountries.com.
 
 ## AUTHOR
 - Clara Marinho
-- Linkedin: https://www.linkedin.com/in/mclaramarinho/ 
-
-
-
-
-
-## AUTHOR
-- Clara Marinho
 - Linkedin: [https://www.linkedin.com/in/mclaramarinho/]
